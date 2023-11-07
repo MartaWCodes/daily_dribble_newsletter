@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    color: #121212;
+}
+
+img {
+    width: 380px;
+    border: 3px solid #121212;
+}
+
+p {
+    font-style: italic;
+}
+
+#btn1 {
+    border: 3px solid #121212;
+    color: grey;
+    font-weight: bold;
+    background-color: white;
+    width: 250px;
+    margin: 10px 0 5px 0;
+    padding: 10px;
+}
+
+#btn2 {
+    border: 3px solid #121212;
+    color: white;
+    font-weight: bold;
+    background-color: #121212;
+    width: 250px;
+    padding: 10px;
+}
+
+a {
+    color: #121212;
+}
